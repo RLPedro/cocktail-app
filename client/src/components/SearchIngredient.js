@@ -27,7 +27,7 @@ export default function SearchBar({ fetchIngredient }) {
                 name="search"
                 placeholder="Enter ingredient name"
                 value={searchValue}
-                className="searchField" />< br/>
+                className="searchField" />
                 <input
                 type="submit"
                 className="search-ingredient-button"

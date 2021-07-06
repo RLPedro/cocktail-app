@@ -27,7 +27,7 @@ export default function SearchBar({ fetchCocktail}) {
                 name="search"
                 placeholder="Enter cocktail name"
                 value={searchValue}
-                className="searchField" />< br/>
+                className="searchField" />
                 <input
                 type="submit"
                 className="search-cocktail-button"

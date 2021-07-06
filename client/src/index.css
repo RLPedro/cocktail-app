@@ -44,7 +44,7 @@ form {
 .search-cocktail-button, 
 .search-cocktails-button, 
 .search-ingredient-button {
-  margin: 0.5rem 0 2rem 0;
+  margin:1rem;
   font-size: 1.2rem;
   font-weight: 550;
   background-color: orange;
@@ -52,7 +52,8 @@ form {
   border: 0;
   cursor: pointer;
   padding: 0.8rem;
-  width: 100%;
+  border-radius: 15px;
+  /* width: 100%; */
 }
 
 .searchField {
