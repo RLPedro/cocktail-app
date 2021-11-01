@@ -5,3 +5,6 @@ Front-end done with React and backend with ExpressJS.
 
 This was a one-day exercise (only a had a few hours actually..), so bear with me for now!<br>
 General improvements coming!
+
+Used:
+React, HTML, CSS, JavaScript.
